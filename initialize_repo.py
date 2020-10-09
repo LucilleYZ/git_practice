@@ -9,4 +9,4 @@ Created on Thu Oct  8 08:43:08 2020
 #%% Test repo saving file
 
 def func(a, b):
-    return a - b
+    return a + b
